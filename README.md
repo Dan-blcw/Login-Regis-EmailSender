@@ -3,11 +3,10 @@
 ## This is an experiment
 
 ## Prerequisites
-- knowledgeable about Spring JPA and Session
+- knowledgeable Spring security, JPA, Session, Hibernate
 - JDK 8
 - Maven
 - PostgreSQL
-- jjwt-api - dependency in pom.xml
 ## Summary chart
 <!--  
                                                     - src
