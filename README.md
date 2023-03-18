@@ -4,7 +4,7 @@
 
 ## Prerequisites
 - knowledgeable Spring security, JPA, Session, Hibernate
-- JDK 8
+- JDK 19
 - Maven
 - PostgreSQL
 ## Summary chart
