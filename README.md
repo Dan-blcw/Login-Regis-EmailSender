@@ -41,9 +41,5 @@
                    - application.properties
 - pom.xml
 ```
-
-![image](https://user-images.githubusercontent.com/127305381/226134317-4279acdb-7fc6-42f7-8216-1cb9faeb0322.png)
-
-
 ## End
 Okay,that is all and i'm Dan - P-Minh Huong
