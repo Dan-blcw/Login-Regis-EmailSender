@@ -7,6 +7,15 @@
 - JDK 19
 - Maven
 - PostgreSQL
+## Set request body as raw with JSON payload
+```
+{
+    "firstname": "Dan",
+    "lastname": "blcw",
+    "email": "dan_blcw12@gmail.com",
+    "password": "0fcvzcv"
+}
+```
 ## Summary chart
 ```
 - src
