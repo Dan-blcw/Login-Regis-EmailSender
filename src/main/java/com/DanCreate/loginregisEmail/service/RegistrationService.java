@@ -67,7 +67,7 @@ public class RegistrationService {
 
         tokenKeyService.setConfirmedAt(token);
         userService.enableUser(tokenKey.getUser().getEmail());
-        return "confirmed";
+        return "Confirmed token ! What's up I'm Dan from RegistrationService endpoint! ";
     }
 
     private String buildEmail(String name, String link) {
