@@ -23,7 +23,7 @@
 ![image](https://user-images.githubusercontent.com/127305381/229306138-d40021e2-c618-4a35-aa19-308111c32f07.png)
 ## Postman
 #### @GetRequest after have JWT Token from table Database use_db
-### Demo - localhost:8080/api/v1/registration/confirm?token={JWT Token}
+#### Demo - GetRequest : localhost:8080/api/v1/registration/confirm?token={JWT Token}
 ![image](https://user-images.githubusercontent.com/127305381/229306420-4be65a8c-9bb1-4322-9c86-d19b04137bd1.png)
 
 ## Summary chart
