@@ -26,7 +26,8 @@
 #### Demo - Get : localhost:8080/api/v1/registration/confirm?token={JWT Token}
 #### if it shows like this then it works because the endpoint is already printed
 ![image](https://user-images.githubusercontent.com/127305381/229306420-4be65a8c-9bb1-4322-9c86-d19b04137bd1.png)
-
+#### Note
+- since this is a beta the security part will block your view but that doesn't matter because the token and endpoint are still working properly without a hitch
 ## Summary chart
 ```
 - src
