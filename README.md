@@ -24,6 +24,7 @@
 ## Postman
 #### @GetRequest after have JWT Token from table Database use_db
 #### Demo - Get : localhost:8080/api/v1/registration/confirm?token={JWT Token}
+#### if it shows like this then it works because the endpoint is already printed
 ![image](https://user-images.githubusercontent.com/127305381/229306420-4be65a8c-9bb1-4322-9c86-d19b04137bd1.png)
 
 ## Summary chart
