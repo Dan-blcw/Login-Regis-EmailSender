@@ -21,7 +21,9 @@
 ![image](https://user-images.githubusercontent.com/127305381/229306056-16896b41-e20a-4aa8-a7e9-7d783ce36dd9.png)
 #### Table token_key
 ![image](https://user-images.githubusercontent.com/127305381/229306138-d40021e2-c618-4a35-aa19-308111c32f07.png)
-#### Postman
+## Postman
+#### @GetRequest after have JWT Token from table Database use_db
+### Demo - localhost:8080/api/v1/registration/confirm?token={JWT Token}
 ![image](https://user-images.githubusercontent.com/127305381/229306420-4be65a8c-9bb1-4322-9c86-d19b04137bd1.png)
 
 ## Summary chart
